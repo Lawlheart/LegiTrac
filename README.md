@@ -58,4 +58,4 @@ If you have questions or comments, contact the author at bradcopenhaver@gmail.co
 
 This project is licensed under the MIT license.
 
-Copyright (c) 2017 **Brad Copenhaver, Claire Sial, Kenny Black, Margie Nevarez**
+Copyright (c) 2017 **Brad Copenhaver, Claire Sial, Kaia McIntyre, Margie Nevarez**
